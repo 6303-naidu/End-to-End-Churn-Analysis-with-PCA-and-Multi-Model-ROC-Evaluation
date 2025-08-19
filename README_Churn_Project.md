@@ -1,4 +1,5 @@
-# Customer Churn — EDA, PCA, ROC & Multi-Model ML
+## End-to-End-Churn-Analysis-with-PCA-and-Multi-Model-ROC-Evaluation
+
 
 This project demonstrates an end-to-end **binary classification** workflow on a synthetic **Customer Churn** dataset.
 
